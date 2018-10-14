@@ -63,7 +63,6 @@ self.addEventListener('fetch', (event) => {
   })
   );
 });
-
 /**
  * listen for the "message" event, and call
  * skipWaiting if you get the appropriate message
