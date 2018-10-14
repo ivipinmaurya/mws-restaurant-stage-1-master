@@ -184,4 +184,3 @@ class DBHelper {
 
 }
 var hostedOnGitHubFlag = (window.location.hostname === "gauravsinghaec.github.io") ? 'github' : '' ;
-
