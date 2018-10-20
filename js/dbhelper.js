@@ -9,12 +9,7 @@ class DBHelper {
    */
   static get DATABASE_URL() {
     const port = 8000 // Change this to your server port
-    if(hostedOnGitHubFlag) {
-      console.log(window.location.hostname);
-      return `https://gauravsinghaec.github.io/FEND-mws-restaurant-stage-1/data/restaurants.json`;
-    }else {
-      return `http://localhost:${port}/data/restaurants.json`;
-    }
+    return `http://localhost:${port}/data/restaurants.json`;
   }
 
   /**
@@ -148,14 +143,14 @@ class DBHelper {
    * Restaurant page URL.
    */
   static urlForRestaurant(restaurant) {
-    return `./restaurant.html?id=${restaurant.id}`;
+    return (`./restaurant.html?id=${restaurant.id}`);
   }
 
   /**
    * Restaurant image URL.
    */
   static imageUrlForRestaurant(restaurant) {
-    return (`./img/${restaurant.photograph}`);
+    return (`/img/${restaurant.photograph}`);
   }
 
   /**
@@ -183,4 +178,3 @@ class DBHelper {
   } */
 
 }
-var hostedOnGitHubFlag = (window.location.hostname === "gauravsinghaec.github.io") ? 'github' : '' ;
