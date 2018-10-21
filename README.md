@@ -2,11 +2,11 @@
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
-##Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Specification](#specification)
-* [How to run](#How to run?)
+* [How to run](#howtorun?)
 * [Tools Used](#Tools Used)
 
 ## Overview
