@@ -3,12 +3,12 @@
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 ##Table of Contents
-* [Overview](#Overview)
+* [Overview](#project%20overview)
 * [Specification](#specification)
 * [How to run](#How to run?)
 * [Tools Used](#Tools Used)
 
-## Project Overview: Stage 1
+## Project Overview
 
 For the **Restaurant Reviews** projects, I have incrementally converted a static webpage to a mobile-ready web application. In **Stage One**, I got a static design that lacks accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also have added a service worker to begin the process of creating a seamless offline experience for your users.
 
