@@ -6,8 +6,8 @@
 
 * [Overview](#overview)
 * [Specification](#specification)
-* [How to run](#howtorun?)
-* [Tools Used](#tools%20used)
+* [How to run](#how-to-run?)
+* [Tools Used](#tools-used)
 
 ## Overview
 
