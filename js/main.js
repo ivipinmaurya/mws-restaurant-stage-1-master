@@ -208,6 +208,3 @@ addMarkersToMap = (restaurants = self.restaurants) => {
     self.markers.push(marker);
   });
 } */
-
-var b1 = document.h2;
-b1.tabIndex = 1;
