@@ -6,7 +6,7 @@
 
 * [Overview](#overview)
 * [Specification](#specification)
-* [How to run](#how-to-run?)
+* [How to run](#how-to-run)
 * [Tools Used](#tools-used)
 
 ## Overview
@@ -17,7 +17,7 @@ For the **Restaurant Reviews** projects, I have incrementally converted a static
 
 I was provided the code for a restaurant reviews website. The code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also did not include any standard accessibility features, and it did not work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
 
-### How to run?
+### How to run
 
 To run the project, download or clone the repository to your PC. and follow the steps bellow:
 
