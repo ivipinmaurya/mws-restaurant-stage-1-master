@@ -3,8 +3,8 @@
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 ##Table of Contents
-* [Overview](#Project Overview: Stage 1)
-* [Specification](#Specification)
+* [Overview](#Overview)
+* [Specification](#specification)
 * [How to run](#How to run?)
 * [Tools Used](#Tools Used)
 
